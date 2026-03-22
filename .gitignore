@@ -1,0 +1,10 @@
+target/
+node_modules/
+dist/
+build/
+.env
+.idea/
+*.iml
+*.class
+*.jar
+*.war
